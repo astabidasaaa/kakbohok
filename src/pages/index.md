@@ -1,12 +1,7 @@
 ---
-templateKey: "index"
+templateKey: index
 title: Homepage
-description: Ini adalah Home Page.
+description: Selamat Datang! Annyeong
 path: /
 ---
-
-Suscipit sit magnam enim corrupti sint et. Qui beatae at et fugit qui et accusantium. Animi molestiae dignissimos ipsam omnis aperiam qui aliquid. Inventore consequatur nobis iste omnis exercitationem aliquam voluptas beatae. Sit quisquam iste perferendis ad maxime. Sint harum maxime impedit quam.
-
-Adipisci ipsam ipsa soluta sed voluptas eum. Distinctio et qui sed rerum vitae illum quae magni. Omnis voluptas voluptatem. Quod odit consequatur rerum fuga et enim vero. Non nihil repellendus.
-
-Praesentium tempore ut voluptas. Qui dolores nemo voluptatibus. Aut consectetur quod voluptatum aspernatur consequuntur magni ut quos.
+Page ini dibuatkan dengan penuh cinta oleh SangkaraBCD. Masih bingung juga mau ngisinya bagaimana dan nyusun business prosesnya seperti apa. Tapi ya bersabar dulu yah, sampai menemukan bentuk dan cara terbaiknya. Semoga pula hal-hal ini dapat menambah pengetahuan dan pengalaman Nam Do Sang dalam mendevelop web.
