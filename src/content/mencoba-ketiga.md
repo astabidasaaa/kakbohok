@@ -1,19 +1,31 @@
 ---
-templateKey: "post"
+templateKey: post
+path: /mencoba-ke-3
 title: mencoba ke 3
-description: Pellentesque euismod dapibus ligula, ac tempor quam dapibus a. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+description: Pellentesque euismod dapibus ligula, ac tempor quam dapibus a.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 date: 2019-08-26
 featuredpost: true
-path: /mencoba-ke-3
-featuredImage: ./images/dark-sky.jpg
-featuredImageAlt: "Dark abstract shapes"
-category: "category 1"
-tags: ["data", "CMS"]
+featuredimage: https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fnature%2F&psig=AOvVaw0rg6Rj7F0VO0Cc6MX5szKN&ust=1626704270345000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjgzOXn7PECFQAAAAAdAAAAABAD
 author: Si Bbbbb
+featuredImage: ./images/dark-sky.jpg
+tags:
+  - data
+  - CMS
+featuredImageAlt: Dark abstract shapes
+featuredimagealt: pohon
+category: category 1
 ---
-
 Doloremque tempora eligendi optio molestiae velit distinctio. Maxime voluptatem ratione aut commodi vel et blanditiis. Voluptatem quam quo nam natus ex delectus. Ullam provident voluptatum autem. Aperiam et fugit ut. Illum totam quae recusandae.
 
 Voluptatem animi minus. Saepe et voluptates excepturi ut cum animi soluta quas. Incidunt voluptas a voluptatem aut adipisci eius fugiat. Pariatur magni temporibus voluptatem sint debitis voluptas amet. Autem delectus aut consequuntur placeat necessitatibus est incidunt.
 
 Vero recusandae eaque temporibus earum maiores non. Sed sunt illum id. Optio sed provident. Eum ad minima repellat consequatur et velit eos. Est voluptas voluptas sit repellat voluptas odit est.
+
+
+
+
+
+`Referensi:`\
+`https://finance.detik.com/berita-ekonomi-bisnis/d-4375701/jokowi-kerugian-akibat-macet-jabodetabek-rp-65-t-per-tahun`\
+`Pardo, C.F. (2002). Meningkatkan Kesadaran Masyarakat akan Transportasi Perkotaan Berkelanjutan. Gesellschaft fur Technische Zusammenarbeit GmbH. `
