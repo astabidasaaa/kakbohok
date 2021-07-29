@@ -33,4 +33,6 @@ Quae cum ducimus. Veniam aperiam sunt dolores ut maxime mollitia molestias. Adip
 
 Nihil quisquam minus soluta quae. Autem magnam porro molestiae. Atque repudiandae doloremque asperiores et ratione. Aliquam rem omnis quos expedita sunt officia repudiandae.
 
+![test](/images/img_0789.jpg "baju baru")
+
 Voluptatem et sequi ea eum molestiae omnis. Qui ut voluptatem blanditiis totam neque ut et. Rerum ducimus accusantium fugiat quibusdam tempora eos. Dolor omnis dolor et natus veniam aut necessitatibus. Mollitia sunt fugit consequatur consequatur sit molestias architecto.
