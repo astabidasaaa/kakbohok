@@ -43,11 +43,11 @@ Voluptatem et sequi ea eum molestiae omnis. Qui ut voluptatem blanditiis totam n
 
 a
 
-\`\``
+`
 
 test
 
-\`\``
+`
 
 \`\`\`test\`\`\`
 
@@ -58,6 +58,10 @@ test test test
 ```
 
 <h1>Hi</h1>
-Oh, hello world! Take [this](https://github.com/netlify/netlify-cms/) with you.
+Oh, hello world! Take \\[this](https://github.com/netlify/netlify-cms/) with you.
 
 <code>Ut dapibus congue facilisis. [Ut eget consequat](https://dev.to/steelvoltage/gatsby-and-netlify-cms-first-impressions-4ink) lorem. Donec leo tellus, bibendum in arcu at, finibus rutrum velit.</code>
+
+<pre>
+<span>Ut dapibus congue facilisis. <a href="http://www.google.com/" target="_blank" rel="noopener">search engines</a> lorem. Donec leo tellus, bibendum in arcu at, finibus rutrum velit.</span>
+</pre>
