@@ -15,8 +15,6 @@ featuredImageAlt: Dark abstract shapes
 featuredimagealt: Fuji
 category: category 3
 ---
-
-
 Modi non libero. Aut sapiente non nisi voluptatem officiis. Eos officiis laborum sed eos.
 
 Doloremque amet est maiores quos aut non quaerat. Ipsa accusantium eum officiis minima nulla quia. Laborum quam magnam neque inventore.
@@ -62,6 +60,4 @@ test test test
 <h1>Hi</h1>
 Oh, hello world! Take [this](https://github.com/netlify/netlify-cms/) with you.
 
-
-
-<code>Ut dapibus congue facilisis. Ut eget consequat lorem. Donec leo tellus, bibendum in arcu at, finibus rutrum velit.</code>
+<code>Ut dapibus congue facilisis. [Ut eget consequat](https://dev.to/steelvoltage/gatsby-and-netlify-cms-first-impressions-4ink) lorem. Donec leo tellus, bibendum in arcu at, finibus rutrum velit.</code>
