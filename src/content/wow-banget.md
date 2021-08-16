@@ -1,7 +1,7 @@
 ---
 templateKey: post
 path: /wow-banget
-title: Wow Banget
+title: "Wow Banget: Percobaan dengan tanda bagi"
 description: Post untuk percobaan.
 date: 2021-08-12T17:11:53.735Z
 featuredpost: false
